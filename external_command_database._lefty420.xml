@@ -10,6 +10,9 @@
 	<launcher name="Dolphin (Nintendo Gamecube, Wii)" os="LibreElec x86">
   	<launcher_command>/usr/bin/dolphin.start -e %ROM%</launcher_command>
 	</launcher>
+	<launcher name="Dolphin 2 (Nintendo Gamecube, Wii)" os="LibreElec x86">
+  	<launcher_command>/usr/bin/dolphin.sh -e %ROM%</launcher_command>
+	</launcher>
 	<launcher name="RetroArch Dinothawr (Dinothawr)" os="LibreElec x86">
 	<launcher_command>/usr/bin/retroarch.sh %NETPLAY_COMMAND% -L /tmp/cores/dinothawr_libretro.so "%ROM_PATH%"</launcher_command>
 	</launcher>
