@@ -1,20 +1,26 @@
 
 	<system>
 	<!-- LibreElec x86 (Escalade Build) -->	
-	<launcher name="Fs-uae (Amiga)" os="LibreElec x86">
-  	<launcher_command>/usr/bin/fs-uae.start "%ROM_RAW%"</launcher_command>
+		<launcher name="Fs-uae (Amiga)" os="LibreElec x86">
+  		<launcher_command>/usr/bin/fs-uae.start "%ROM_RAW%"</launcher_command>
 	</launcher>
-	<launcher name="Vice (C64)" os="LibreElec x86">
-	<launcher_command>/usr/bin/x64.start -autostart "%ROM_RAW%"</launcher_command>
+		<launcher name="Vice (C64)" os="LibreElec x86">
+		<launcher_command>/usr/bin/x64.start -autostart "%ROM_RAW%"</launcher_command>
 	</launcher>
-	<launcher name="Dolphin (Nintendo Gamecube, Wii)" os="LibreElec x86">
-  	<launcher_command>/usr/bin/dolphin.start -e %ROM%</launcher_command>
+	<launcher name="Dolphin (Gamecube, Wii)" os="LibreElec x86">
+		<launcher_command>/usr/bin/dolphin.sh -e "%ROM_PATH%"</launcher_command>
 	</launcher>
-	<launcher name="Dolphin 2 (Nintendo Gamecube, Wii)" os="LibreElec x86">
-  	<launcher_command>/usr/bin/dolphin.sh -e %ROM%</launcher_command>
+		<launcher name="Dolphin 2 (Gamecube, Wii)" os="LibreElec x86">
+		<launcher_command>/usr/bin/dolphin.sh -e "%ROM%"</launcher_command>
 	</launcher>
-	<launcher name="RetroArch Dinothawr (Dinothawr)" os="LibreElec x86">
-	<launcher_command>/usr/bin/retroarch.sh %NETPLAY_COMMAND% -L /tmp/cores/dinothawr_libretro.so "%ROM_PATH%"</launcher_command>
+		<launcher name="Dolphin 3 (Gamecube, Wii)" os="LibreElec x86">
+		<launcher_command>/usr/bin/dolphin.start -e "%ROM_PATH%"</launcher_command>
+	</launcher>
+		<launcher name="Dolphin 4 (Gamecube, Wii)" os="LibreElec x86">
+		<launcher_command>/usr/bin/dolphin.start -e "%ROM%"</launcher_command>
+	</launcher>
+		<launcher name="RetroArch Dinothawr (Dinothawr)" os="LibreElec x86">
+		<launcher_command>/usr/bin/retroarch.sh %NETPLAY_COMMAND% -L /tmp/cores/dinothawr_libretro.so "%ROM_PATH%"</launcher_command>
 	</launcher>
 	</system>
 	
