@@ -1,12 +1,6 @@
 <item>
-<title>Wake and Bake With Tyler Green 1</title>
-<utube>plugin://plugin.video.youtube/play/playlist_id=PL3tf-8jUewll7lWLg23G7bhDq6lYEBKLH</utube>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>Wake and Bake With Tyler Green xxx</title>
-<utube>plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=$PL3tf-8jUewll7lWLg23G7bhDq6lYEBKLH</utube>
+<title>wake and bake</title>
+<link>plugin://plugin.video.youtube/play/playlist_id=PL3tf-8jUewll7lWLg23G7bhDq6lYEBKLH</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
