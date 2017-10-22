@@ -13,7 +13,7 @@
 <channel>
 <name>ISMOKE Cannabis Strain Reviews</name>
 <thumbnail>https://github.com/lefty420/media/raw/master/1.jpg</thumbnail>
-<externallink>https://github.com/lefty420/media/raw/master/strain.xml</externallink>
+<utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlnWQ1cD5xaYjlmY8640BYVB</utube>
 <fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
 <info></info>
 </channel>
