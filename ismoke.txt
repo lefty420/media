@@ -1,8 +1,8 @@
 <item>
 <title>wake and bake test</title>
-<link><utube>
+<utube>
 UCJ0uqCI0Vqr2Rrt1HseGirg |PLZ1f3amS4y1ffYEhGZDtawaEyRQQu69Bw
-</utube></link>
+</utube>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
