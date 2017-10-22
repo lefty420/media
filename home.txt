@@ -15,7 +15,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/1.jpg</thumbnail>
 <utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlnWQ1cD5xaYjlmY8640BYVB</utube>
 <fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
-<info></info>
+<info>Ismoke strain reviews</info>
 </channel>
 
 <channel>
