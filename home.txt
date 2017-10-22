@@ -7,7 +7,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/ismoke.xml</externallink>
 <fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
-<info>Watrch videos from our wake and bake series as well as conted from our Uk Smoking Buddies</info>
+<info>Watch videos from our wake and bake series as well as contet from our Uk Smoking Buddies series</info>
 </channel>
 
 <channel>
