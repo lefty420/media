@@ -7,7 +7,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/ismoke.xml</externallink>
 <fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
-<info></info>
+<info>Watrch videos from our wake and bake series as well as conted from our Uk Smoking Buddies</info>
 </channel>
 
 <channel>
@@ -15,7 +15,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/1.jpg</thumbnail>
 <utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlnWQ1cD5xaYjlmY8640BYVB</utube>
 <fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
-<info>Ismoke strain reviews</info>
+<info>Catchup on Ismoke strain reviews with Tyler Green</info>
 </channel>
 
 <channel>
