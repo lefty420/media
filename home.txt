@@ -3,11 +3,11 @@
 
 <channels>
 <channel>
-<name>Ismoke</name>
-<thumbnail></thumbnail>
+<name>Ismoke TV</name>
+<thumbnail>https://github.com/lefty420/media/raw/master/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/ismoke.xml</externallink>
-<fanart></fanart>
-<info>SimpleKore.com</info>
+<fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
+<info></info>
 </channel>
 
 <channel>
