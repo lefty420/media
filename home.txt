@@ -3,6 +3,14 @@
 
 <channels>
 <channel>
+<title>ISMOKE Cannabis Videos</title>
+<thumbnail>https://github.com/lefty420/media/blob/master/icon.png</thumbnail>
+<utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlm56KgZxVXEyFVix6b08hL3</utube>
+<fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
+<info>Catchup on Ismoke strain reviews with Tyler Green</info>
+</channel>
+
+<channel>
 <name>Ismoke TV</name>
 <thumbnail>https://github.com/lefty420/media/raw/master/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/ismoke.xml</externallink>
@@ -17,6 +25,7 @@
 <fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
 <info>Catchup on Ismoke strain reviews with Tyler Green</info>
 </channel>
+
 
 <channel>
 <name>Youtube</name>
