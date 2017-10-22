@@ -5,7 +5,7 @@
 <channel>
 <name>Ismoke</name>
 <thumbnail></thumbnail>
-<externallink>http://ismokemedia.co.uk/dev/ismoke.txt</externallink>
+<externallink>https://raw.githubusercontent.com/lefty420/media/master/ismoke.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
