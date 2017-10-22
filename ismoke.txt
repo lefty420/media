@@ -1,6 +1,8 @@
 <item>
 <title>wake and bake</title>
-<link>plugin://plugin.video.youtube/play/playlist_id=PL3tf-8jUewll7lWLg23G7bhDq6lYEBKLH</link>
+<link><utube>
+UCJ0uqCI0Vqr2Rrt1HseGirg |PLZ1f3amS4y1ffYEhGZDtawaEyRQQu69Bw
+</utube></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
