@@ -14,7 +14,7 @@
 <name>ISMOKE Cannabis Strain Reviews</name>
 <thumbnail>https://github.com/lefty420/media/raw/master/1.jpg</thumbnail>
 <externallink>https://github.com/lefty420/media/raw/master/strain.xml</externallink>
-<fanart>https://github.com/lefty420/media/raw/master/background.jpg<</fanart>
+<fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
 <info></info>
 </channel>
 
