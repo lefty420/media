@@ -5,7 +5,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>Wake and Bake With Tyler Green x</title>
+<title>Wake and Bake With Tyler Green xxx</title>
 <utube>plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=$PL3tf-8jUewll7lWLg23G7bhDq6lYEBKLH</utube>
 <thumbnail></thumbnail>
 <fanart></fanart>
