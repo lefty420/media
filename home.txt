@@ -12,10 +12,10 @@
 
 <channel>
 <name>ISMOKE Cannabis Strain Reviews</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/lefty420/media/master/strain.xml</externallink>
-<fanart></fanart>
-<info>SimpleKore.com</info>
+<thumbnail>https://github.com/lefty420/media/raw/master/1.jpg</thumbnail>
+<externallink>https://github.com/lefty420/media/raw/master/strain.xml</externallink>
+<fanart>https://github.com/lefty420/media/raw/master/background.jpg<</fanart>
+<info></info>
 </channel>
 
 <channel>
