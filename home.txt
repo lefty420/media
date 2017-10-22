@@ -11,9 +11,9 @@
 </channel>
 
 <channel>
-<name>Movies</name>
+<name>ISMOKE Cannabis Strain Reviews</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/lefty420/media/master/strain.xml</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
