@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>Ismoke TV</name>
+<name>ISMOKE Network</name>
 <thumbnail>https://github.com/lefty420/media/raw/master/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/ismoke.xml</externallink>
 <fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
