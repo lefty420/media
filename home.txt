@@ -66,4 +66,13 @@
 <fanart>https://github.com/lefty420/media/raw/master/images/medical-background.jpg</fanart>
 <info>Our Medical Cannabis section contains videos detailing the medical benefits and efficy of cannabis</info>
 </channel>
+
+<channel>
+<name>Learn about Cannabis</name>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/20.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lefty420/media/master/learn.xml</externallink>
+<fanart>https://github.com/lefty420/media/raw/master/images/knowledge-background.jpg</fanart>
+<info>A collection of videos that have been put together to teach you more about cannabis</info>
+</channel>
+
 </channels>
