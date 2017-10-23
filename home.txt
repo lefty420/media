@@ -58,4 +58,12 @@
 <fanart>https://github.com/lefty420/media/raw/master/images/news-background.jpg</fanart>
 <info>Watch UK Cannabis News / Political Updates brought to you by ISMOKE</info>
 </channel>
+
+<channel>
+<name>Medical Cannabis</name>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/18.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lefty420/media/master/medical.xml</externallink>
+<fanart>https://github.com/lefty420/media/raw/master/images/medical-background.jpg</fanart>
+<info>Our Medical Cannabis section contains videos detailing the medical benefits and efficy of cannabis</info>
+</channel>
 </channels>
