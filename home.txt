@@ -12,10 +12,10 @@
 
 <channel>
 <name>ISMOKE Network</name>
-<thumbnail>https://github.com/lefty420/media/raw/master/icon.png</thumbnail>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/4.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/ismoke.xml</externallink>
-<fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
-<info>Watch videos from our wake and bake series as well as contet from our Uk Smoking Buddies series</info>
+<fanart>https://github.com/lefty420/media/raw/master/images/ismoke-network-background.jpg</fanart>
+<info>Watch our videos featuring other creators from the cannabis community including Dr Denz, Drewissharing & More!</info>
 </channel>
 
 <channel>
