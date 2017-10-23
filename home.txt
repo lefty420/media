@@ -35,4 +35,12 @@
 <info>Our regularly updated cannabis-inspired music library - here you'll find a collection of cannabis music that we love</info>
 </channel>
 
+<channel>
+<name>Cannabis Events</name>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/11.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lefty420/media/master/events.xml</externallink>
+<fanart>https://github.com/lefty420/media/raw/master/images/events-background.jpg</fanart>
+<info>Watch videos about cannabis events and protests in the UK</info>
+</channel>
+
 </channels>
