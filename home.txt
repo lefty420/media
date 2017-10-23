@@ -75,4 +75,36 @@
 <info>A collection of videos that have been put together to teach you more about cannabis</info>
 </channel>
 
+<channel>
+<title>Growing Cannabis</title>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/23.jpg</thumbnail>
+<utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlnLylciO84nUdqUwvwwMAW8</utube>
+<fanart>https://github.com/lefty420/media/raw/master/images/fanart.jpg</fanart>
+<info>Watch videos about growing cannabis, cannabis seeds and more!</info>
+</channel>
+
+<channel>
+<title>Cannabis Documentaries</title>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/26.jpg</thumbnail>
+<utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlmzcMj-q1-dAqMYRhw6mLh0</utube>
+<fanart>https://github.com/lefty420/media/raw/master/images/fanart.jpg</fanart>
+<info>Watch various cannabis documentaries curated from across the web</info>
+</channel>
+
+<channel>
+<title>Cooking With Cannabis</title>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/24.jpg</thumbnail>
+<utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlk8IhLnq7FGd5WABjY1LKLZ</utube>
+<fanart>https://github.com/lefty420/media/raw/master/images/fanart.jpg</fanart>
+<info>Cooking with cannabis is fun! Watch our edibles-themed videos on ISMOKE TV</info>
+</channel>
+
+<channel>
+<title>Product Reviews</title>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/25.jpg</thumbnail>
+<utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlmukNRCn3VFrZCHs0IwCkt4</utube>
+<fanart>https://github.com/lefty420/media/raw/master/images/fanart.jpg</fanart>
+<info>These videos are all abour 420 products, including product reviews, demos, unboxings and more!</info>
+</channel>
+
 </channels>
