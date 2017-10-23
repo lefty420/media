@@ -43,4 +43,12 @@
 <info>Watch videos about cannabis events and protests in the UK</info>
 </channel>
 
+<channel>
+<name>Cannabis Extracts / Concentrates</name>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/13.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lefty420/media/master/extracts.xml</externallink>
+<fanart>https://github.com/lefty420/media/raw/master/images/extracts-background.jpg</fanart>
+<info>Watch videos about cannabis extracts</info>
+</channel>
+
 </channels>
