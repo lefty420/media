@@ -28,11 +28,11 @@
 
 
 <channel>
-<name>Youtube</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>SimpleKore.com</info>
+<name>Weed Music Library</name>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/10.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lefty420/media/master/music.xml</externallink>
+<fanart>https://github.com/lefty420/media/raw/master/images/music-background.jpg</fanart>
+<info>Our regularly updated cannabis-inspired music library - here you'll find a collection of cannabis music that we love</info>
 </channel>
 
 </channels>
