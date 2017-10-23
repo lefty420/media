@@ -20,9 +20,9 @@
 
 <channel>
 <title>Strain Reviews</title>
-<thumbnail>https://github.com/lefty420/media/raw/master/1.jpg</thumbnail>
+<thumbnail>https://github.com/lefty420/media/raw/master/images/2.jpg</thumbnail>
 <utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlnWQ1cD5xaYjlmY8640BYVB</utube>
-<fanart>https://github.com/lefty420/media/raw/master/background.jpg</fanart>
+<fanart>https://github.com/lefty420/media/raw/master/images/fanart.jpg</fanart>
 <info>Catchup on Ismoke strain reviews with Tyler Green</info>
 </channel>
 
