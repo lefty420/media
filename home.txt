@@ -7,7 +7,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/images/1.jpg</thumbnail>
 <utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlm56KgZxVXEyFVix6b08hL3</utube>
 <fanart>https://github.com/lefty420/media/raw/master/images/fanart.jpg</fanart>
-<info>Catchup on Ismoke strain reviews with Tyler Green</info>
+<info>All our latest videos. All in one place.</info>
 </channel>
 
 <channel>
@@ -15,7 +15,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/images/4.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/ismoke.xml</externallink>
 <fanart>https://github.com/lefty420/media/raw/master/images/ismoke-network-background.jpg</fanart>
-<info>Watch our videos featuring other creators from the cannabis community including Dr Denz, Drewissharing & More!</info>
+<info>The ISMOKE Network is expanding to bring you even more cannabis content! Watch our videos featuring other creators from the cannabis community including Dr Denz, Drewissharing & More!</info>
 </channel>
 
 <channel>
@@ -23,7 +23,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/images/2.jpg</thumbnail>
 <utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlnWQ1cD5xaYjlmY8640BYVB</utube>
 <fanart>https://github.com/lefty420/media/raw/master/images/fanart.jpg</fanart>
-<info>Catchup on Ismoke strain reviews with Tyler Green</info>
+<info>Watch our strain reviews, smoke reports and strain information features on ISMOKE TV</info>
 </channel>
 
 
@@ -40,7 +40,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/images/11.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/events.xml</externallink>
 <fanart>https://github.com/lefty420/media/raw/master/images/events-background.jpg</fanart>
-<info>Watch videos about cannabis events and protests in the UK</info>
+<info>On this channel you can watch videos about cannabis events and protests in the UK</info>
 </channel>
 
 <channel>
@@ -48,7 +48,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/images/13.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/extracts.xml</externallink>
 <fanart>https://github.com/lefty420/media/raw/master/images/extracts-background.jpg</fanart>
-<info>Watch videos about cannabis extracts</info>
+<info>On this channel you can watch and learn all about cannabis extracts</info>
 </channel>
 
 <channel>
@@ -56,7 +56,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/images/16.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/news.xml</externallink>
 <fanart>https://github.com/lefty420/media/raw/master/images/news-background.jpg</fanart>
-<info>Watch UK Cannabis News / Political Updates brought to you by ISMOKE</info>
+<info>A channel to Watch UK Cannabis News / Political Updates brought to you by ISMOKE</info>
 </channel>
 
 <channel>
@@ -72,7 +72,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/images/20.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lefty420/media/master/learn.xml</externallink>
 <fanart>https://github.com/lefty420/media/raw/master/images/knowledge-background.jpg</fanart>
-<info>A collection of videos that have been put together to teach you more about cannabis</info>
+<info>A channel featuring videos that have been put together to teach you more about cannabis</info>
 </channel>
 
 <channel>
@@ -80,7 +80,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/images/23.jpg</thumbnail>
 <utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlnLylciO84nUdqUwvwwMAW8</utube>
 <fanart>https://github.com/lefty420/media/raw/master/images/fanart.jpg</fanart>
-<info>Watch videos about growing cannabis, cannabis seeds and more!</info>
+<info>On this channel you can watch videos about growing cannabis, cannabis seeds and more!</info>
 </channel>
 
 <channel>
@@ -88,7 +88,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/images/26.jpg</thumbnail>
 <utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlmzcMj-q1-dAqMYRhw6mLh0</utube>
 <fanart>https://github.com/lefty420/media/raw/master/images/fanart.jpg</fanart>
-<info>Watch various cannabis documentaries curated from across the web</info>
+<info>On this channel you can watch various cannabis documentaries curated from across the globe</info>
 </channel>
 
 <channel>
@@ -96,7 +96,7 @@
 <thumbnail>https://github.com/lefty420/media/raw/master/images/24.jpg</thumbnail>
 <utube>UC_24jKIAWs4f3nk21CGgVRg|PL3tf-8jUewlk8IhLnq7FGd5WABjY1LKLZ</utube>
 <fanart>https://github.com/lefty420/media/raw/master/images/fanart.jpg</fanart>
-<info>Cooking with cannabis is fun! Watch our edibles-themed videos on ISMOKE TV</info>
+<info>Cooking with cannabis is fun! On this channel you can watch edibles-themed videos brought to you by ISMOKE TV</info>
 </channel>
 
 <channel>
