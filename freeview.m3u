@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC One London" tvg-name="UK: BBC ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/BBC_One_2002.png" group-title="UK: ENTERTAINMENT",UK: BBC ONE HD SAT
+http://192.168.0.2:9981/stream/channelid/2092024152?ticket=B520D0EC7E1B9190BC0C7D666A2A9E40088D42A3&profile=pass
+#EXTINF:-1 tvg-id="BBC Two England" tvg-name="UK: BBC TWO HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_two_uk.jpg" group-title="UK: ENTERTAINMENT",UK: BBC TWO HD SAT
+http://192.168.0.2:9981/stream/channelid/1881933522?ticket=3ADF6F9A8E98D0103D418CEB8F197E36E83541ED&profile=pass
+#EXTINF:-1 tvg-id="ITV London" tvg-name="UK: ITV 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/itv_uk_hd.jpg" group-title="UK: ENTERTAINMENT",UK: ITV 1 HD SAT
+http://192.168.0.2:9981/stream/channelid/1149127327?ticket=E974F141C7A8979EB9274BD45133E40009174C77&profile=pass
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="UK: CHANNEL 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel4_hd.jpg" group-title="UK: ENTERTAINMENT",UK: CHANNEL 4 HD SAT
+http://192.168.0.2:9981/stream/channelid/1936639637?ticket=9C8EC535B4DA88DC8B671C84B1F6A7D46DEEF845&profile=pass
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="UK: CHANNEL 5 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel5_uk.jpg" group-title="UK: ENTERTAINMENT",UK: CHANNEL 5 HD SAT
+http://192.168.0.2:9981/stream/channelid/1719259166?ticket=BA4027D033ABE8036924AB1B664FE56BA42F6A98&profile=pass
+#EXTINF:-1 tvg-id="Challenge" tvg-name="UK: CHALLENGE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/challenge_tv.jpg" group-title="ENTERTAINMENT",UK: CHALLENGE SAT
+http://192.168.0.2:9981/stream/channelid/1778538750?ticket=D63FE58D45E58A1442184BD66CE7CEC41DE8A7A6&profile=pass
